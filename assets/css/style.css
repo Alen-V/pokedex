@@ -1,0 +1,81 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-image: url(/assets/images/bg-left.svg);
+    background-position: center;
+    background-size: cover;
+    background-position: left;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.pokedex-container {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(115deg, transparent 45%,#F4523B 45%, #F4523B 55%, #FA7248 50%);
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    font-size: 2em;
+    font-weight: 600;
+}
+
+.header > div {
+    mix-blend-mode: unset;
+    display: flex;
+    height: 80%;
+    align-items: center;
+    color: white;
+    padding-left: 25px;
+}
+
+.pokeball-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.pokeball-stats {
+    height: 100%;
+    width: 125px;
+    background-color: #333333;
+    border-radius: 15px;
+    margin: 8px;
+}
+
+.left-side {
+    width: 40%;
+    justify-content: space-between;
+}
+
+.right-side {
+    width: 60%;
+    justify-content: center;
+}
+
+.pokemon-image {
+    height: 100%;
+    width: 50%;
+    /* background-color: rgba(0,0,0, .3); */
+}
+
+.pokemon-list {
+    height: 100%;
+    width: 50%;
+    /* background-color: rgba(0,0,0, .7); */
+    padding: 8px;
+}
