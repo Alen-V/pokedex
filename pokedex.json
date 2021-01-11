@@ -3,8 +3,8 @@
       "id": "01",
       "name": "Bulbasaur",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
-      "sum1": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
-      "sum2": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+      "desc1": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+      "desc2": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
       "species": "Seed Pokémon",
       "type": [
         "Grass",
@@ -35,8 +35,8 @@
       "id": "02",
       "name": "Ivysaur",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
-      "sum1": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
-      "sum2": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+      "desc1": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "desc2": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
       "species": "Seed Pokémon",
       "type": [
         "Grass",
@@ -67,8 +67,8 @@
       "id": "03",
       "name": "Venusaur",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
-      "sum1": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
-      "sum2": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+      "desc1": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "desc2": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
       "species": "Seed Pokémon",
       "type": [
         "Grass",
@@ -99,8 +99,8 @@
       "id": "04",
       "name": "Charmander",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
-      "sum1": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
-      "sum2": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+      "desc1": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+      "desc2": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
       "species": "Lizard Pokémon",
       "type": [
         "Fire"
@@ -130,8 +130,8 @@
       "id": "05",
       "name": "Charmeleon",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
-      "sum1": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
-      "sum2": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+      "desc1": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+      "desc2": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
       "species": "Flame Pokémon",
       "type": [
         "Fire"
@@ -161,8 +161,8 @@
       "id": "06",
       "name": "Charizard",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
-      "sum1": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
-      "sum2": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+      "desc1": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+      "desc2": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
       "species": "Flame Pokémon",
       "type": [
         "Fire",
@@ -193,8 +193,8 @@
       "id": "07",
       "name": "Squirtle",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
-      "sum1": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
-      "sum2": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+      "desc1": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "desc2": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
       "species": "Tiny Turtle Pokémon",
       "type": [
         "Water"
@@ -224,8 +224,8 @@
       "id": "08",
       "name": "Wartortle",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
-      "sum1": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
-      "sum2": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+      "desc1": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+      "desc2": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
       "species": "Turtle Pokémon",
       "type": [
         "Water"
@@ -255,8 +255,8 @@
       "id": "09",
       "name": "Blastoise",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
-      "sum1": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
-      "sum2": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+      "desc1": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+      "desc2": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
       "species": "Shellfish Pokémon",
       "type": [
         "Water"
@@ -286,8 +286,8 @@
       "id": "10",
       "name": "Caterpie",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
-      "sum1": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
-      "sum2": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+      "desc1": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+      "desc2": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
       "species": "Worm Pokémon",
       "type": [
         "Bug"
@@ -317,8 +317,8 @@
       "id": "11",
       "name": "Metapod",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
-      "sum1": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
-      "sum2": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
+      "desc1": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+      "desc2": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
       "species": "Cocoon Pokémon",
       "type": [
         "Bug"
@@ -347,8 +347,8 @@
       "id": "12",
       "name": "Butterfree",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
-      "sum1": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
-      "sum2": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+      "desc1": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+      "desc2": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
       "species": "Butterfly Pokémon",
       "type": [
         "Bug",
@@ -379,8 +379,8 @@
       "id": "13",
       "name": "Weedle",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
-      "sum1": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
-      "sum2": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+      "desc1": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+      "desc2": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
       "species": "Hairy Bug Pokémon",
       "type": [
         "Bug",
@@ -411,8 +411,8 @@
       "id": "14",
       "name": "Kakuna",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
-      "sum1": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
-      "sum2": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+      "desc1": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+      "desc2": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
       "species": "Cocoon Pokémon",
       "type": [
         "Bug",
@@ -442,8 +442,8 @@
       "id": "15",
       "name": "Beedrill",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
-      "sum1": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
-      "sum2": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+      "desc1": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+      "desc2": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
       "species": "Poison Bee Pokémon",
       "type": [
         "Bug",
@@ -474,8 +474,8 @@
       "id": "16",
       "name": "Pidgey",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
-      "sum1": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
-      "sum2": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+      "desc1": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+      "desc2": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
       "species": "Tiny Bird Pokémon",
       "type": [
         "Normal",
@@ -507,8 +507,8 @@
       "id": "17",
       "name": "Pidgeotto",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
-      "sum1": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
-      "sum2": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+      "desc1": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+      "desc2": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
       "species": "Bird Pokémon",
       "type": [
         "Normal",
@@ -540,8 +540,8 @@
       "id": "18",
       "name": "Pidgeot",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
-      "sum1": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
-      "sum2": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+      "desc1": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+      "desc2": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
       "species": "Bird Pokémon",
       "type": [
         "Normal",
@@ -573,8 +573,8 @@
       "id": "19",
       "name": "Rattata",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
-      "sum1": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
-      "sum2": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+      "desc1": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+      "desc2": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
       "species": "Mouse Pokémon",
       "type": [
         "Normal"
@@ -604,8 +604,8 @@
       "id": "20",
       "name": "Raticate",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
-      "sum1": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
-      "sum2": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+      "desc1": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+      "desc2": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
       "species": "Mouse Pokémon",
       "type": [
         "Normal"
@@ -635,8 +635,8 @@
       "id": "21",
       "name": "Spearow",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
-      "sum1": "Inept at flying high. However, it can fly around very fast to protect its territory.",
-      "sum2": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+      "desc1": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+      "desc2": "Inept at flying high. However, it can fly around very fast to protect its territory.",
       "species": "Tiny Bird Pokémon",
       "type": [
         "Normal",
@@ -666,8 +666,8 @@
       "id": "22",
       "name": "Fearow",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
-      "sum1": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
-      "sum2": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
+      "desc1": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
+      "desc2": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
       "species": "Beak Pokémon",
       "type": [
         "Normal",
@@ -697,8 +697,8 @@
       "id": "23",
       "name": "Ekans",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
-      "sum1": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
-      "sum2": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+      "desc1": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+      "desc2": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
       "species": "Snake Pokémon",
       "type": [
         "Poison"
@@ -728,8 +728,8 @@
       "id": "24",
       "name": "Arbok",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
-      "sum1": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
-      "sum2": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+      "desc1": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+      "desc2": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
       "species": "Cobra Pokémon",
       "type": [
         "Poison"
@@ -759,8 +759,8 @@
       "id": "25",
       "name": "Pikachu",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
-      "sum1": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-      "sum2": "When Pikachu meet, they’ll touch their tails together and exchange electricity through them as a form of greeting.",
+      "desc1": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+      "desc2": "When Pikachu meet, they’ll touch their tails together and exchange electricity through them as a form of greeting.",
       "species": "Mouse Pokémon",
       "type": [
         "Electric"
@@ -789,8 +789,8 @@
       "id": "26",
       "name": "Raichu",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
-      "sum1": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
-      "sum2": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+      "desc1": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+      "desc2": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
       "species": "Mouse Pokémon",
       "type": [
         "Electric"
@@ -819,8 +819,8 @@
       "id": "27",
       "name": "Sandshrew",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
-      "sum1": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.",
-      "sum2": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.",
+      "desc1": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.",
+      "desc2": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.",
       "species": "Mouse Pokémon",
       "type": [
         "Ground"
@@ -849,8 +849,8 @@
       "id": "28",
       "name": "Sandslash",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
-      "sum1": "The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched.",
-      "sum2": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
+      "desc1": "The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched.",
+      "desc2": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
       "species": "Mouse Pokémon",
       "type": [
         "Ground"
@@ -879,8 +879,8 @@
       "id": "29",
       "name": "Nidoran♀",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
-      "sum1": "Females are more sensitive to smells than males. While foraging, they’ll use their whiskers to check wind direction and stay downwind of predators.",
-      "sum2": "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran’s horn is a bit more rounded than the tip of a male’s horn.",
+      "desc1": "Females are more sensitive to smells than males. While foraging, they’ll use their whiskers to check wind direction and stay downwind of predators.",
+      "desc2": "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran’s horn is a bit more rounded than the tip of a male’s horn.",
       "species": "Poison Pin Pokémon",
       "type": [
         "Poison"
@@ -911,8 +911,8 @@
       "id": "30",
       "name": "Nidorina",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
-      "sum1": "The horn on its head has atrophied. It’s thought that this happens so Nidorina’s children won’t get poked while their mother is feeding them.",
-      "sum2": "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves.",
+      "desc1": "The horn on its head has atrophied. It’s thought that this happens so Nidorina’s children won’t get poked while their mother is feeding them.",
+      "desc2": "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves.",
       "species": "Poison Pin Pokémon",
       "type": [
         "Poison"
@@ -943,8 +943,8 @@
       "id": "31",
       "name": "Nidoqueen",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
-      "sum1": "Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.",
-      "sum2": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.",
+      "desc1": "Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.",
+      "desc2": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.",
       "species": "Drill Pokémon",
       "type": [
         "Poison",
@@ -976,8 +976,8 @@
       "id": "32",
       "name": "Nidoran♂",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
-      "sum1": "The horn on a male Nidoran’s forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.",
-      "sum2": "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it’s friendly with.",
+      "desc1": "The horn on a male Nidoran’s forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.",
+      "desc2": "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it’s friendly with.",
       "species": "Poison Pin Pokémon",
       "type": [
         "Poison"
@@ -1008,8 +1008,8 @@
       "id": "33",
       "name": "Nidorino",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png",
-      "sum1": "With a horn that’s harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.",
-      "sum2": "It’s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.",
+      "desc1": "With a horn that’s harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.",
+      "desc2": "It’s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.",
       "species": "Poison Pin Pokémon",
       "type": [
         "Poison"
@@ -1040,8 +1040,8 @@
       "id": "34",
       "name": "Nidoking",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
-      "sum1": "When it goes on a rampage, it’s impossible to control. But in the presence of a Nidoqueen it’s lived with for a long time, Nidoking calms down.",
-      "sum2": "Nidoking prides itself on its strength. It’s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
+      "desc1": "When it goes on a rampage, it’s impossible to control. But in the presence of a Nidoqueen it’s lived with for a long time, Nidoking calms down.",
+      "desc2": "Nidoking prides itself on its strength. It’s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
       "species": "Drill Pokémon",
       "type": [
         "Poison",
@@ -1072,8 +1072,8 @@
     {
       "id": "35",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
-      "sum1": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
-      "sum2": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
+      "desc1": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+      "desc2": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
       "name": "Clefairy",
       "species": "Fairy Pokémon",
       "type": [
@@ -1105,8 +1105,8 @@
       "id": "36",
       "name": "Clefable",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png",
-      "sum1": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
-      "sum2": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.",
+      "desc1": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+      "desc2": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.",
       "species": "Fairy Pokémon",
       "type": [
         "Fairy"
@@ -1137,8 +1137,8 @@
       "id": "37",
       "name": "Vulpix",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
-      "sum1": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
-      "sum2": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
+      "desc1": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+      "desc2": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
       "species": "Fox Pokémon",
       "type": [
         "Fire"
@@ -1167,8 +1167,8 @@
       "id": "38",
       "name": "Ninetales",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
-      "sum1": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
-      "sum2": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+      "desc1": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+      "desc2": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
       "species": "Fox Pokémon",
       "type": [
         "Fire"
@@ -1197,8 +1197,8 @@
       "id": "39",
       "name": "Jigglypuff",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
-      "sum1": "Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won’t stop singing its lullabies until its foes fall asleep.",
-      "sum2": "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.",
+      "desc1": "Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won’t stop singing its lullabies until its foes fall asleep.",
+      "desc2": "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.",
       "species": "Balloon Pokémon",
       "type": [
         "Normal",
@@ -1229,8 +1229,8 @@
       "id": "40",
       "name": "Wigglytuff",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
-      "sum1": "The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.",
-      "sum2": "It’s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that’s perfectly heavenly.",
+      "desc1": "The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.",
+      "desc2": "It’s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that’s perfectly heavenly.",
       "species": "Balloon Pokémon",
       "type": [
         "Normal",
@@ -1261,8 +1261,8 @@
       "id": "41",
       "name": "Zubat",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
-      "sum1": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
-      "sum2": "Zubat live in caves, down where the sun’s light won’t reach. In the morning, they gather together to keep each other warm as they sleep.",
+      "desc1": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
+      "desc2": "Zubat live in caves, down where the sun’s light won’t reach. In the morning, they gather together to keep each other warm as they sleep.",
       "species": "Bat Pokémon",
       "type": [
         "Poison",
@@ -1293,8 +1293,8 @@
       "id": "42",
       "name": "Golbat",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
-      "sum1": "It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered.",
-      "sum2": "Its feet are tiny, but this Pokémon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.",
+      "desc1": "It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered.",
+      "desc2": "Its feet are tiny, but this Pokémon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.",
       "species": "Bat Pokémon",
       "type": [
         "Poison",
@@ -1325,8 +1325,8 @@
       "id": "43",
       "name": "Oddish",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
-      "sum1": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
-      "sum2": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+      "desc1": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+      "desc2": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
       "species": "Weed Pokémon",
       "type": [
         "Grass",
@@ -1357,8 +1357,8 @@
       "id": "44",
       "name": "Gloom",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png",
-      "sum1": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
-      "sum2": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+      "desc1": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
+      "desc2": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
       "species": "Weed Pokémon",
       "type": [
         "Grass",
@@ -1389,8 +1389,8 @@
       "id": "45",
       "name": "Vileplume",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
-      "sum1": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
-      "sum2": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "desc1": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+      "desc2": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
       "species": "Flower Pokémon",
       "type": [
         "Grass",
@@ -1421,7 +1421,7 @@
       "id": "46",
       "name": "Paras",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
-      "sum1": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
+      "desc1": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
       "species": "Mushroom Pokémon",
       "type": [
         "Bug",
@@ -1452,7 +1452,7 @@
       "id": "47",
       "name": "Parasect",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
-      "sum1": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
+      "desc1": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
       "species": "Mushroom Pokémon",
       "type": [
         "Bug",
@@ -1483,7 +1483,7 @@
       "id": "48",
       "name": "Venonat",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
-      "sum1": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",
+      "desc1": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",
       "species": "Insect Pokémon",
       "type": [
         "Bug",
@@ -1514,7 +1514,7 @@
       "id": "49",
       "name": "Venomoth",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
-      "sum1": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
+      "desc1": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
       "species": "Poison Moth Pokémon",
       "type": [
         "Bug",
@@ -1545,8 +1545,8 @@
       "id": "50",
       "name": "Diglett",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
-      "sum1": "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
-      "sum2": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
+      "desc1": "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
+      "desc2": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
       "species": "Mole Pokémon",
       "type": [
         "Ground"
@@ -1576,8 +1576,8 @@
       "id": "51",
       "name": "Dugtrio",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
-      "sum1": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
-      "sum2": "These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.",
+      "desc1": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+      "desc2": "These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.",
       "species": "Mole Pokémon",
       "type": [
         "Ground"
@@ -1607,8 +1607,8 @@
       "id": "52",
       "name": "Meowth",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
-      "sum1": "It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures.",
-      "sum2": "It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.",
+      "desc1": "It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures.",
+      "desc2": "It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.",
       "species": "Scratch Cat Pokémon",
       "type": [
         "Normal"
@@ -1638,8 +1638,8 @@
       "id": "53",
       "name": "Persian",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
-      "sum1": "Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.",
-      "sum2": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
+      "desc1": "Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.",
+      "desc2": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
       "species": "Classy Cat Pokémon",
       "type": [
         "Normal"
@@ -1669,8 +1669,8 @@
       "id": "54",
       "name": "Psyduck",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
-      "sum1": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",
-      "sum2": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
+      "desc1": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",
+      "desc2": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
       "species": "Duck Pokémon",
       "type": [
         "Water"
@@ -1700,8 +1700,8 @@
       "id": "55",
       "name": "Golduck",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
-      "sum1": "This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display.",
-      "sum2": "Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.",
+      "desc1": "This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display.",
+      "desc2": "Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.",
       "species": "Duck Pokémon",
       "type": [
         "Water"
@@ -1731,7 +1731,7 @@
       "id": "56",
       "name": "Mankey",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
-      "sum1": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.",
+      "desc1": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.",
       "species": "Pig Monkey Pokémon",
       "type": [
         "Fighting"
@@ -1761,7 +1761,7 @@
       "id": "57",
       "name": "Primeape",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
-      "sum1": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+      "desc1": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
       "species": "Pig Monkey Pokémon",
       "type": [
         "Fighting"
@@ -1791,8 +1791,8 @@
       "id": "58",
       "name": "Growlithe",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
-      "sum1": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
-      "sum2": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
+      "desc1": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+      "desc2": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
       "species": "Puppy Pokémon",
       "type": [
         "Fire"
@@ -1822,8 +1822,8 @@
       "id": "59",
       "name": "Arcanine",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
-      "sum1": "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
-      "sum2": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
+      "desc1": "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
+      "desc2": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
       "species": "Legendary Pokémon",
       "type": [
         "Fire"
@@ -1853,8 +1853,8 @@
       "id": "60",
       "name": "Poliwag",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
-      "sum1": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.",
-      "sum2": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
+      "desc1": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.",
+      "desc2": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
       "species": "Tadpole Pokémon",
       "type": [
         "Water"
@@ -1885,8 +1885,8 @@
       "id": "61",
       "name": "Poliwhirl",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png",
-      "sum1": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep.",
-      "sum2": "This Pokémon’s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies’ grasp and escape.",
+      "desc1": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep.",
+      "desc2": "This Pokémon’s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies’ grasp and escape.",
       "species": "Tadpole Pokémon",
       "type": [
         "Water"
@@ -1917,8 +1917,8 @@
       "id": "62",
       "name": "Poliwrath",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png",
-      "sum1": "Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.",
-      "sum2": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
+      "desc1": "Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.",
+      "desc2": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
       "species": "Tadpole Pokémon",
       "type": [
         "Water",
@@ -1950,8 +1950,8 @@
       "id": "63",
       "name": "Abra",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
-      "sum1": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.",
-      "sum2": "Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.",
+      "desc1": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.",
+      "desc2": "Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.",
       "species": "Psi Pokémon",
       "type": [
         "Psychic"
@@ -1982,8 +1982,8 @@
       "id": "64",
       "name": "Kadabra",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
-      "sum1": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
-      "sum2": "This Pokémon’s telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
+      "desc1": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+      "desc2": "This Pokémon’s telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
       "species": "Psi Pokémon",
       "type": [
         "Psychic"
@@ -2014,8 +2014,8 @@
       "id": "65",
       "name": "Alakazam",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
-      "sum1": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
-      "sum2": "Alakazam wields potent psychic powers. It’s said that this Pokémon used these powers to create the spoons it holds.",
+      "desc1": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+      "desc2": "Alakazam wields potent psychic powers. It’s said that this Pokémon used these powers to create the spoons it holds.",
       "species": "Psi Pokémon",
       "type": [
         "Psychic"
@@ -2046,8 +2046,8 @@
       "id": "66",
       "name": "Machop",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
-      "sum1": "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",
-      "sum2": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+      "desc1": "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",
+      "desc2": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
       "species": "Superpower Pokémon",
       "type": [
         "Fighting"
@@ -2078,8 +2078,8 @@
       "id": "67",
       "name": "Machoke",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png",
-      "sum1": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
-      "sum2": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
+      "desc1": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+      "desc2": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
       "species": "Superpower Pokémon",
       "type": [
         "Fighting"
@@ -2110,8 +2110,8 @@
       "id": "68",
       "name": "Machamp",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
-      "sum1": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
-      "sum2": "With four arms that react more quickly than it can think, it can execute many punches at once.",
+      "desc1": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+      "desc2": "With four arms that react more quickly than it can think, it can execute many punches at once.",
       "species": "Superpower Pokémon",
       "type": [
         "Fighting"
@@ -2142,7 +2142,7 @@
       "id": "69",
       "name": "Bellsprout",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
-      "sum1": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
+      "desc1": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
       "species": "Flower Pokémon",
       "type": [
         "Grass",
@@ -2173,7 +2173,7 @@
       "id": "70",
       "name": "Weepinbell",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png",
-      "sum1": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
+      "desc1": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
       "species": "Flycatcher Pokémon",
       "type": [
         "Grass",
@@ -2204,7 +2204,7 @@
       "id": "71",
       "name": "Victreebel",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png",
-      "sum1": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
+      "desc1": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
       "species": "Flycatcher Pokémon",
       "type": [
         "Grass",
@@ -2235,8 +2235,8 @@
       "id": "72",
       "name": "Tentacool",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
-      "sum1": "Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.",
-      "sum2": "This Pokémon is mostly made of water. A Tentacool out in the ocean is very hard to spot, because its body blends in with the sea.",
+      "desc1": "Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.",
+      "desc2": "This Pokémon is mostly made of water. A Tentacool out in the ocean is very hard to spot, because its body blends in with the sea.",
       "species": "Jellyfish Pokémon",
       "type": [
         "Water",
@@ -2267,8 +2267,8 @@
       "id": "73",
       "name": "Tentacruel",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png",
-      "sum1": "When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
-      "sum2": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
+      "desc1": "When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
+      "desc2": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
       "species": "Jellyfish Pokémon",
       "type": [
         "Water",
@@ -2299,7 +2299,7 @@
       "id": "74",
       "name": "Geodude",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
-      "sum1": "Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.",
+      "desc1": "Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.",
       "species": "Rock Pokémon",
       "type": [
         "Rock",
@@ -2331,7 +2331,7 @@
       "id": "75",
       "name": "Graveler",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
-      "sum1": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
+      "desc1": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
       "species": "Rock Pokémon",
       "type": [
         "Rock",
@@ -2363,7 +2363,7 @@
       "id": "76",
       "name": "Golem",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
-      "sum1": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air.",
+      "desc1": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air.",
       "species": "Megaton Pokémon",
       "type": [
         "Rock",
@@ -2395,8 +2395,8 @@
       "id": "77",
       "name": "Ponyta",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
-      "sum1": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
-      "sum2": "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+      "desc1": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
+      "desc2": "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
       "species": "Fire Horse Pokémon",
       "type": [
         "Fire"
@@ -2426,8 +2426,8 @@
       "id": "78",
       "name": "Rapidash",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
-      "sum1": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
-      "sum2": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
+      "desc1": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
+      "desc2": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
       "species": "Fire Horse Pokémon",
       "type": [
         "Fire"
@@ -2457,8 +2457,8 @@
       "id": "79",
       "name": "Slowpoke",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
-      "sum1": "Slow-witted and oblivious, this Pokémon won’t feel any pain if its tail gets eaten. It won’t notice when its tail grows back, either.",
-      "sum2": "When this Pokémon’s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.",
+      "desc1": "Slow-witted and oblivious, this Pokémon won’t feel any pain if its tail gets eaten. It won’t notice when its tail grows back, either.",
+      "desc2": "When this Pokémon’s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.",
       "species": "Dopey Pokémon",
       "type": [
         "Water",
@@ -2489,8 +2489,8 @@
       "id": "80",
       "name": "Slowbro",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
-      "sum1": "Slowpoke became Slowbro when a Shellder bit on to its tail. Sweet flavors seeping from the tail make the Shellder feel as if its life is a dream.",
-      "sum2": "Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke.",
+      "desc1": "Slowpoke became Slowbro when a Shellder bit on to its tail. Sweet flavors seeping from the tail make the Shellder feel as if its life is a dream.",
+      "desc2": "Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke.",
       "species": "Hermit Crab Pokémon",
       "type": [
         "Water",
@@ -2521,8 +2521,8 @@
       "id": "81",
       "name": "Magnemite",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
-      "sum1": "At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it’ll start moving again.",
-      "sum2": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
+      "desc1": "At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it’ll start moving again.",
+      "desc2": "It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.",
       "species": "Magnet Pokémon",
       "type": [
         "Electric",
@@ -2553,8 +2553,8 @@
       "id": "82",
       "name": "Magneton",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
-      "sum1": "This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.",
-      "sum2": "This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.",
+      "desc1": "This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.",
+      "desc2": "This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.",
       "species": "Magnet Pokémon",
       "type": [
         "Electric",
@@ -2585,8 +2585,8 @@
       "id": "83",
       "name": "Farfetch'd",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
-      "sum1": "The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.",
-      "sum2": "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.",
+      "desc1": "The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.",
+      "desc2": "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.",
       "species": "Wild Duck Pokémon",
       "type": [
         "Normal",
@@ -2614,7 +2614,7 @@
       "id": "84",
       "name": "Doduo",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
-      "sum1": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
+      "desc1": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
       "species": "Twin Bird Pokémon",
       "type": [
         "Normal",
@@ -2645,7 +2645,7 @@
       "id": "85",
       "name": "Dodrio",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png",
-      "sum1": "One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.",
+      "desc1": "One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.",
       "species": "Triple Bird Pokémon",
       "type": [
         "Normal",
@@ -2676,7 +2676,7 @@
       "id": "86",
       "name": "Seel",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png",
-      "sum1": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
+      "desc1": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
       "species": "Sea Lion Pokémon",
       "type": [
         "Water"
@@ -2706,7 +2706,7 @@
       "id": "87",
       "name": "Dewgong",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
-      "sum1": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+      "desc1": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
       "species": "Sea Lion Pokémon",
       "type": [
         "Water",
@@ -2737,7 +2737,7 @@
       "id": "88",
       "name": "Grimer",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
-      "sum1": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
+      "desc1": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
       "species": "Sludge Pokémon",
       "type": [
         "Poison"
@@ -2767,7 +2767,7 @@
       "id": "89",
       "name": "Muk",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
-      "sum1": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
+      "desc1": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
       "species": "Sludge Pokémon",
       "type": [
         "Poison"
@@ -2797,8 +2797,8 @@
       "id": "90",
       "name": "Shellder",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png",
-      "sum1": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
-      "sum2": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+      "desc1": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+      "desc2": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
       "species": "Bivalve Pokémon",
       "type": [
         "Water"
@@ -2828,8 +2828,8 @@
       "id": "91",
       "name": "Cloyster",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
-      "sum1": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
-      "sum2": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+      "desc1": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+      "desc2": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
       "species": "Bivalve Pokémon",
       "type": [
         "Water",
@@ -2860,8 +2860,8 @@
       "id": "92",
       "name": "Gastly",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
-      "sum1": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
-      "sum2": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+      "desc1": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+      "desc2": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
       "species": "Gas Pokémon",
       "type": [
         "Ghost",
@@ -2891,8 +2891,8 @@
       "id": "93",
       "name": "Haunter",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
-      "sum1": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
-      "sum2": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+      "desc1": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+      "desc2": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
       "species": "Gas Pokémon",
       "type": [
         "Ghost",
@@ -2922,8 +2922,8 @@
       "id": "94",
       "name": "Gengar",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
-      "sum1": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing.",
-      "sum2": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+      "desc1": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing.",
+      "desc2": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
       "species": "Shadow Pokémon",
       "type": [
         "Ghost",
@@ -2953,8 +2953,8 @@
       "id": "95",
       "name": "Onix",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
-      "sum1": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
-      "sum2": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+      "desc1": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+      "desc2": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
       "species": "Rock Snake Pokémon",
       "type": [
         "Rock",
@@ -2984,7 +2984,7 @@
       "id": "96",
       "name": "Drowzee",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
-      "sum1": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
+      "desc1": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
       "species": "Hypnosis Pokémon",
       "type": [
         "Psychic"
@@ -3014,7 +3014,7 @@
       "id": "97",
       "name": "Hypno",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png",
-      "sum1": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
+      "desc1": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
       "species": "Hypnosis Pokémon",
       "type": [
         "Psychic"
@@ -3044,8 +3044,8 @@
       "id": "98",
       "name": "Krabby",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png",
-      "sum1": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
-      "sum2": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+      "desc1": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+      "desc2": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
       "species": "River Crab Pokémon",
       "type": [
         "Water"
@@ -3075,8 +3075,8 @@
       "id": "99",
       "name": "Kingler",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
-      "sum1": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
-      "sum2": "Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.",
+      "desc1": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+      "desc2": "Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.",
       "species": "Pincer Pokémon",
       "type": [
         "Water"
@@ -3106,7 +3106,7 @@
       "id": "100",
       "name": "Voltorb",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
-      "sum1": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
+      "desc1": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
       "species": "Ball Pokémon",
       "type": [
         "Electric"
@@ -3136,7 +3136,7 @@
       "id": "101",
       "name": "Electrode",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
-      "sum1": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+      "desc1": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
       "species": "Ball Pokémon",
       "type": [
         "Electric"
@@ -3166,8 +3166,8 @@
       "id": "102",
       "name": "Exeggcute",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
-      "sum1": "Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
-      "sum2": "These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
+      "desc1": "Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
+      "desc2": "These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
       "species": "Egg Pokémon",
       "type": [
         "Grass",
@@ -3197,8 +3197,8 @@
       "id": "103",
       "name": "Exeggutor",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
-      "sum1": "Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.",
-      "sum2": "When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.",
+      "desc1": "Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.",
+      "desc2": "When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.",
       "species": "Coconut Pokémon",
       "type": [
         "Grass",
@@ -3228,8 +3228,8 @@
       "id": "104",
       "name": "Cubone",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
-      "sum1": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
-      "sum2": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.",
+      "desc1": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+      "desc2": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.",
       "species": "Lonely Pokémon",
       "type": [
         "Ground"
@@ -3259,8 +3259,8 @@
       "id": "105",
       "name": "Marowak",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",
+      "desc2": "When this Pokémon evolved, the skull of its mother fused to it. Marowak’s temperament also turned vicious at the same time.",
       "species": "Bone Keeper Pokémon",
       "type": [
         "Ground"
@@ -3290,8 +3290,8 @@
       "id": "106",
       "name": "Hitmonlee",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+      "desc2": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
       "species": "Kicking Pokémon",
       "type": [
         "Fighting"
@@ -3321,8 +3321,8 @@
       "id": "107",
       "name": "Hitmonchan",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+      "desc2": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
       "species": "Punching Pokémon",
       "type": [
         "Fighting"
@@ -3352,8 +3352,8 @@
       "id": "108",
       "name": "Lickitung",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "If this Pokémon’s sticky saliva gets on you and you don’t clean it off, an intense itch will set in. The itch won’t go away, either.",
+      "desc2": "Bug Pokémon are Lickitung’s main food source. This Pokémon paralyzes its prey with a lick from its long tongue, then swallows the prey whole.",
       "species": "Licking Pokémon",
       "type": [
         "Normal"
@@ -3382,8 +3382,8 @@
       "id": "109",
       "name": "Koffing",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+      "desc2": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
       "species": "Poison Gas Pokémon",
       "type": [
         "Poison"
@@ -3411,8 +3411,8 @@
       "id": "110",
       "name": "Weezing",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It mixes gases between its two bodies. It’s said that these Pokémon were seen all over the Galar region back in the day.",
+      "desc2": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
       "species": "Poison Gas Pokémon",
       "type": [
         "Poison"
@@ -3440,8 +3440,8 @@
       "id": "111",
       "name": "Rhyhorn",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
+      "desc2": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
       "species": "Spikes Pokémon",
       "type": [
         "Ground",
@@ -3472,8 +3472,8 @@
       "id": "112",
       "name": "Rhydon",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
+      "desc2": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
       "species": "Drill Pokémon",
       "type": [
         "Ground",
@@ -3504,8 +3504,8 @@
       "id": "113",
       "name": "Chansey",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "The egg Chansey carries is not only delicious but also packed with nutrition. It’s used as a high-class cooking ingredient.",
+      "desc2": "This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.",
       "species": "Egg Pokémon",
       "type": [
         "Normal"
@@ -3534,8 +3534,8 @@
       "id": "114",
       "name": "Tangela",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery.",
+      "desc2": "The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.",
       "species": "Vine Pokémon",
       "type": [
         "Grass"
@@ -3564,8 +3564,8 @@
       "id": "115",
       "name": "Kangaskhan",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Although it’s carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.",
+      "desc2": "There are records of a lost human child being raised by a childless Kangaskhan.",
       "species": "Parent Pokémon",
       "type": [
         "Normal"
@@ -3592,8 +3592,8 @@
       "id": "116",
       "name": "Horsea",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.",
+      "desc2": "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
       "species": "Dragon Pokémon",
       "type": [
         "Water"
@@ -3623,8 +3623,8 @@
       "id": "117",
       "name": "Seadra",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.",
+      "desc2": "Seadra’s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that’s larger than the opening of its mouth.",
       "species": "Dragon Pokémon",
       "type": [
         "Water"
@@ -3654,8 +3654,8 @@
       "id": "118",
       "name": "Goldeen",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.",
+      "desc2": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
       "species": "Goldfish Pokémon",
       "type": [
         "Water"
@@ -3685,8 +3685,8 @@
       "id": "119",
       "name": "Seaking",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+      "desc2": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
       "species": "Goldfish Pokémon",
       "type": [
         "Water"
@@ -3716,8 +3716,8 @@
       "id": "120",
       "name": "Staryu",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "If you visit a beach at the end of summer, you’ll be able to see groups of Staryu lighting up in a steady rhythm.",
+      "desc2": "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.",
       "species": "Star Shape Pokémon",
       "type": [
         "Water"
@@ -3746,8 +3746,8 @@
     {
       "id": "121",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.",
+      "desc2": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
       "name": "Starmie",
       "species": "Mysterious Pokémon",
       "type": [
@@ -3779,8 +3779,8 @@
       "id": "122",
       "name": "Mr. Mime",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.",
+      "desc2": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
       "species": "Barrier Pokémon",
       "type": [
         "Psychic",
@@ -3810,8 +3810,8 @@
       "id": "123",
       "name": "Scyther",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.",
+      "desc2": "If you come across an area in a forest where a lot of the trees have been cut down, what you’ve found is a Scyther’s territory.",
       "species": "Mantis Pokémon",
       "type": [
         "Bug",
@@ -3841,8 +3841,8 @@
       "id": "124",
       "name": "Jynx",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
+      "desc2": "The Jynx of Galar often have beautiful and delicate voices. Some of these Pokémon have even gathered a fan base.",
       "species": "Human Shape Pokémon",
       "type": [
         "Ice",
@@ -3872,8 +3872,8 @@
       "id": "125",
       "name": "Electabuzz",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.",
+      "desc2": "With the coming of a storm, many of these Pokémon will gather under tall trees and sit there waiting for lightning to strike.",
       "species": "Electric Pokémon",
       "type": [
         "Electric"
@@ -3901,8 +3901,8 @@
       "id": "126",
       "name": "Magmar",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.",
+      "desc2": "These Pokémon’s bodies are constantly burning. Magmar are feared as one of the causes behind fires.",
       "species": "Spitfire Pokémon",
       "type": [
         "Fire"
@@ -3930,8 +3930,8 @@
       "id": "127",
       "name": "Pinsir",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+      "desc2": "This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
       "species": "Stag Beetle Pokémon",
       "type": [
         "Bug"
@@ -3958,8 +3958,8 @@
       "id": "128",
       "name": "Tauros",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed.",
+      "desc2": "The Tauros of the Galar region are volatile in nature, and they won’t allow people to ride on their backs.",
       "species": "Wild Bull Pokémon",
       "type": [
         "Normal"
@@ -3986,8 +3986,8 @@
       "id": "129",
       "name": "Magikarp",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
+      "desc2": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
       "species": "Fish Pokémon",
       "type": [
         "Water"
@@ -4016,8 +4016,8 @@
       "id": "130",
       "name": "Gyarados",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It has an extremely aggressive nature. The Hyper Beam it shoots from its mouth totally incinerates all targets.",
+      "desc2": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
       "species": "Atrocious Pokémon",
       "type": [
         "Water",
@@ -4047,8 +4047,8 @@
       "id": "131",
       "name": "Lapras",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
+      "desc2": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
       "species": "Transport Pokémon",
       "type": [
         "Water",
@@ -4076,8 +4076,8 @@
       "id": "132",
       "name": "Ditto",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
+      "desc2": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
       "species": "Transform Pokémon",
       "type": [
         "Normal"
@@ -4103,8 +4103,8 @@
       "id": "133",
       "name": "Eevee",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+      "desc2": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
       "species": "Evolution Pokémon",
       "type": [
         "Normal"
@@ -4136,8 +4136,8 @@
       "id": "134",
       "name": "Vaporeon",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours.",
+      "desc2": "Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
       "species": "Bubble Jet Pokémon",
       "type": [
         "Water"
@@ -4168,8 +4168,8 @@
       "id": "135",
       "name": "Jolteon",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.",
+      "desc2": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
       "species": "Lightning Pokémon",
       "type": [
         "Electric"
@@ -4200,8 +4200,8 @@
       "id": "136",
       "name": "Flareon",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Once it has stored up enough heat, this Pokémon’s body temperature can reach up to 1,700 degrees Fahrenheit.",
+      "desc2": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
       "species": "Flame Pokémon",
       "type": [
         "Fire"
@@ -4232,8 +4232,8 @@
       "id": "137",
       "name": "Porygon",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.",
+      "desc2": "In recent years, this species has been very helpful in cyberspace. These Pokémon will go around checking to make sure no suspicious data exists.",
       "species": "Virtual Pokémon",
       "type": [
         "Normal"
@@ -4262,8 +4262,8 @@
       "id": "138",
       "name": "Omanyte",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.",
+      "desc2": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it’s just drifting along.",
       "species": "Spiral Pokémon",
       "type": [
         "Rock",
@@ -4294,8 +4294,8 @@
       "id": "139",
       "name": "Omastar",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Weighed down by a large and heavy shell, Omastar couldn’t move very fast. Some say it went extinct because it was unable to catch food.",
+      "desc2": "Omastar’s sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.",
       "species": "Spiral Pokémon",
       "type": [
         "Rock",
@@ -4326,8 +4326,8 @@
       "id": "140",
       "name": "Kabuto",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
+      "desc2": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
       "species": "Shellfish Pokémon",
       "type": [
         "Rock",
@@ -4358,8 +4358,8 @@
       "id": "141",
       "name": "Kabutops",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.",
+      "desc2": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.",
       "species": "Shellfish Pokémon",
       "type": [
         "Rock",
@@ -4390,8 +4390,8 @@
       "id": "142",
       "name": "Aerodactyl",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.",
+      "desc2": "Aerodactyl’s sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.",
       "species": "Fossil Pokémon",
       "type": [
         "Rock",
@@ -4419,8 +4419,8 @@
       "id": "143",
       "name": "Snorlax",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+      "desc2": "This Pokémon’s stomach is so strong, even eating moldy or rotten food will not affect it.",
       "species": "Sleeping Pokémon",
       "type": [
         "Normal"
@@ -4449,8 +4449,8 @@
       "id": "144",
       "name": "Articuno",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It’s said that this Pokémon’s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",
+      "desc2": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
       "species": "Freeze Pokémon",
       "type": [
         "Ice",
@@ -4477,8 +4477,8 @@
       "id": "145",
       "name": "Zapdos",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.",
+      "desc2": "Zapdos is a legendary bird Pokémon. It’s said that when Zapdos rubs its feathers together, lightning will fall immediately after.",
       "species": "Electric Pokémon",
       "type": [
         "Electric",
@@ -4505,8 +4505,8 @@
       "id": "146",
       "name": "Moltres",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It’s one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow.",
+      "desc2": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
       "species": "Flame Pokémon",
       "type": [
         "Fire",
@@ -4533,8 +4533,8 @@
       "id": "147",
       "name": "Dratini",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Dratini dwells near bodies of rapidly flowing water, such as the plunge pools of waterfalls. As it grows, Dratini will shed its skin many times.",
+      "desc2": "This Pokémon was long considered to be no more than a myth. The small lump on a Dratini’s forehead is actually a horn that’s still coming in.",
       "species": "Dragon Pokémon",
       "type": [
         "Dragon"
@@ -4564,8 +4564,8 @@
       "id": "148",
       "name": "Dragonair",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind.",
+      "desc2": "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance.",
       "species": "Dragon Pokémon",
       "type": [
         "Dragon"
@@ -4595,8 +4595,8 @@
       "id": "149",
       "name": "Dragonite",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "It’s a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them.",
+      "desc2": "This Pokémon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships.",
       "species": "Dragon Pokémon",
       "type": [
         "Dragon",
@@ -4627,8 +4627,7 @@
       "id": "150",
       "name": "Mewtwo",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different.",
       "species": "Genetic Pokémon",
       "type": [
         "Psychic"
@@ -4654,8 +4653,7 @@
       "id": "151",
       "name": "Mew",
       "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
-      "sum1": "",
-      "sum2": "",
+      "desc1": "When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen.",
       "species": "New Species Pokémon",
       "type": [
         "Psychic"
