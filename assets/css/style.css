@@ -106,7 +106,7 @@ html, body {
     transition: all 0.3s ease;
 }
 
-.pokemon-list-item img{
+.pokemon-list-item img:nth-last-of-type(){
     filter: invert(1) opacity(0.5);
 }
 
@@ -122,10 +122,9 @@ html, body {
 
 .pokemon-list-image{
     position: absolute;
-    height: 100px;
-    width: 100px;
+    height: 120px;
+    width: 120px;
     transform: translateX(-25px);
-    background-image:url(/assets/images/sprites/001MS.png);
     background-repeat: no-repeat;
     background-size: cover;
     filter: grayscale(100%);
@@ -133,7 +132,6 @@ html, body {
 
 .pokemon-list .item-active .pokemon-list-image{
     filter: grayscale(0%) opacity(1);
-
 }
 
 .pokemon-list::-webkit-scrollbar-track
