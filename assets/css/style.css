@@ -3,7 +3,7 @@ html, body {
     width: 100%;
     padding: 0;
     margin: 0;
-    background-image: url(/assets/images/bg-left.svg);
+    background-image: url('../images/bg-left.svg');
     background-position: center;
     background-size: cover;
     background-position: left;

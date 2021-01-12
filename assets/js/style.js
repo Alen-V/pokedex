@@ -1,11 +1,10 @@
 let test = document.getElementsByClassName('pokemon-list')[0];
 let data;
 
-async function fetchData(){
-    let call = await fetch("../../pokedex.json");
-    let data = await call.json();
-    console.log(data);
-    return data;
+async function fetchData(data){
+    let call = await fetch(`${data}`);
+    let dataJson = await call.json();
+    return dataJson;
 }
 
 function createPokemon (id, name, sprite) {
@@ -24,7 +23,7 @@ function createPokemon (id, name, sprite) {
 }
 
 function postPokemon () {
-    data = fetchData()
+    data = fetchData('https://raw.githubusercontent.com/Alen-V/pokedex/main/pokedex.json?token=AM5OIIO5KCXDAL3CF6GTG2277XAWS')
     .then(data => {
         for (let i = 0; i < data.length; i++) {
             createPokemon(data[i].id, data[i].name, matchSprite(data[i].id));
