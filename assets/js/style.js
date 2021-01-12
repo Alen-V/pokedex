@@ -23,7 +23,7 @@ function createPokemon (id, name, sprite) {
 }
 
 function postPokemon () {
-    data = fetchData('https://raw.githubusercontent.com/Alen-V/pokedex/main/pokedex.json?token=AM5OIIO5KCXDAL3CF6GTG2277XAWS')
+    data = fetchData('https://raw.githubusercontent.com/Alen-V/pokedex/main/pokedex.json')
     .then(data => {
         for (let i = 0; i < data.length; i++) {
             createPokemon(data[i].id, data[i].name, matchSprite(data[i].id));
