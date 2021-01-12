@@ -35,10 +35,10 @@ function matchSprite (id) {
     let result = id.split('');
     switch (result.length) {
         case 2:
-            result = `./assets/images/sprites/0${id}MS.PNG`;
+            result = `./assets/images/0${id}MS.png`;
             return result;
         case 3:
-            result = `./assets/images/sprites/${id}MS.PNG`;
+            result = `./assets/images/${id}MS.png`;
             return result;
     }
 }
