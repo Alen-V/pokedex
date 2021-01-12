@@ -1,4 +1,6 @@
 let test = document.getElementsByClassName('pokemon-list')[0];
+let pokemonList = test.children
+let pokemonImage = document.getElementsByClassName('pokemon-image')[0].children[0];
 let data;
 
 async function fetchData(data){
@@ -9,7 +11,7 @@ async function fetchData(data){
 
 function createPokemon (id, name, sprite) {
     let result;
-    let start = `<div class="pokemon-list-item item-active">`;
+    let start = `<div class="pokemon-list-item">`;
     let end = `</div>`;
     result = `
         ${start}
@@ -22,11 +24,36 @@ function createPokemon (id, name, sprite) {
     test.innerHTML += result;
 }
 
+function changePokemonImage (data, image) {
+    image.src = `${data}`
+}
+
+function removeClass(elements, classElement) {
+    for (let element of elements) {
+        element.classList.remove(`${classElement}`)
+    }
+}
+
+function selectPokemon(data) {
+    for (let i = 0; i < pokemonList.length; i++) {
+        pokemonList[0].classList.add('item-active')
+        if(pokemonList[i].classList.contains('item-active')) {
+            changePokemonImage(data[i].img, pokemonImage)
+        }
+        pokemonList[i].addEventListener('click', function() {
+            removeClass(pokemonList, 'item-active')
+            this.classList.add('item-active');
+            changePokemonImage(data[i].img, pokemonImage)
+        })
+    }
+}
+
 function postPokemon () {
     data = fetchData('https://raw.githubusercontent.com/Alen-V/pokedex/main/pokedex.json')
     .then(data => {
         for (let i = 0; i < data.length; i++) {
             createPokemon(data[i].id, data[i].name, matchSprite(data[i].id));
+            selectPokemon(data);
         }
     })
 }

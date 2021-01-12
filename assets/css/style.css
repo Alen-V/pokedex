@@ -103,14 +103,14 @@ html, body {
     margin: 30px 0px;
     position: relative;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.3s ease-in;
 }
 
 .pokemon-list-item img:nth-last-of-type(){
     filter: invert(1) opacity(0.5);
 }
 
-.pokemon-list .item-active{
+.pokemon-list .item-active, .pokemon-list .pokemon-list-item:hover{
     background: linear-gradient(115deg, #F0501E 35%,#000000 35%);
     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.3);
     color: white;
@@ -152,6 +152,16 @@ html, body {
 
 .pokemon-id{
     margin-left: 100px;
+}
+
+.item-active .pokeball-list-icon {
+    opacity: 1;
+    filter: unset;
+}
+
+.pokeball-list-icon {
+    opacity: 0.7;
+    filter: invert(1);
 }
 
 .pokeball-list-icon img{
