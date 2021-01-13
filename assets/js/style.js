@@ -4,7 +4,7 @@ let pokemonImage = document.getElementsByClassName('pokemon-image')[0].children[
 let data;
 
 async function fetchData(data){
-    let call = await fetch(`${data}`);
+    let call = await fetch(data);
     let dataJson = await call.json();
     return dataJson;
 }
@@ -15,17 +15,17 @@ function createPokemon (id, name, sprite) {
     let end = `</div>`;
     result = `
         ${start}
-        <img src="${sprite}" class="pokemon-list-image">
-        <div class="pokemon-id"><h2>${createId(id)}</h2></div>
-        <div class="pokemon-name"><h2>${name}</h2></div>
-        <div class="pokeball-list-icon"><img src="assets/images/pokeball-list-icon.svg" alt=""></div>
+            <img src="${sprite}" class="pokemon-list-image">
+            <div class="pokemon-id"><h2>${createId(id)}</h2></div>
+            <div class="pokemon-name"><h2>${name}</h2></div>
+            <div class="pokeball-list-icon"><img src="assets/images/pokeball-list-icon.svg" alt=""></div>
+        ${end}
     `
-    result += `${end}`;
     test.innerHTML += result;
 }
 
 function changePokemonImage (data, image) {
-    image.src = `${data}`
+    image.src = data;
     image.style.opacity = 0
     image.addEventListener('transitionend', () => {
         image.style.opacity = 1
@@ -34,7 +34,7 @@ function changePokemonImage (data, image) {
 
 function removeClass(elements, classElement) {
     for (let element of elements) {
-        element.classList.remove(`${classElement}`)
+        element.classList.remove(classElement)
     }
 }
 
