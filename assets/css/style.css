@@ -55,8 +55,7 @@ html, body {
     height: 100%;
     width: 125px;
     background-color: #595959;
-    border-radius: 15px;
-    margin: 8px;
+    border-radius: 9001px;/*It's over?*/
     justify-content: space-evenly;
     align-items: center;
 }
@@ -66,17 +65,28 @@ html, body {
 }
 
 .seen-pokeballs{
-    width: 200px;
+    width: 400px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    background-color: white;
+}
+
+.search-pokeball{
+    display: flex;
+    align-items: center;
+}
+
+.search-pokeball img{
+    height: 35px;
+    width: 35px;
 }
 
 #pokemonSearch{
-    width: 60%;
+    width: 90%;
     height: 100%;
     background: rgba(0, 0, 0, 0);
     border-color: rgba(0, 0, 0, 0);
-    color: white;
+    color: #595959;
     font-size: 0.7em;
     font-family: 'Montserrat', sans-serif;
     padding: 0px 10px;
@@ -88,8 +98,8 @@ html, body {
 }
 
 .search-icon img{
-    height: 20px;
-    width: 20px;
+    height: 50px;
+    width: 50px;
 }
 
 .right-header {
@@ -142,7 +152,7 @@ html, body {
 
 .pokemon-list .item-active, .pokemon-list .pokemon-list-item:hover {
     background: linear-gradient(115deg, #F0501E 35%,#000000 35%);
-    box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.3);
+    /* box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.3); */
     color: white;
 }
 
@@ -154,7 +164,7 @@ html, body {
     position: absolute;
     height: 120px;
     width: 120px;
-    transform: translateX(-25px);
+    transform: translateX(-45px);
     background-repeat: no-repeat;
     background-size: cover;
     filter: grayscale(100%);
@@ -178,7 +188,7 @@ html, body {
 }
 
 .pokemon-id{
-    margin-left: 100px;
+    margin-left: 65px;
 }
 
 .item-active .pokeball-list-icon,

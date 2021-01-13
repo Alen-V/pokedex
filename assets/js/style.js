@@ -25,8 +25,8 @@ function createPokemon (id, name, sprite) {
 }
 
 function changePokemonImage (data, image) {
-    image.style.opacity = 0
     image.src = `${data}`
+    image.style.opacity = 0
     image.addEventListener('transitionend', () => {
         image.style.opacity = 1
     })
