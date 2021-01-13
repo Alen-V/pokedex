@@ -96,7 +96,7 @@ html, body {
     margin: 20px 20px 20px 0px;
 }
 
-.pokemon-list-item{
+.pokemon-list-item {
     display: flex;
     justify-content: space-between;
     padding: 0px 50px 0px 35px;
@@ -109,21 +109,21 @@ html, body {
     transition: all 0.3s ease-in;
 }
 
-.pokemon-list-item img:nth-last-of-type(){
+.pokemon-list-item img:nth-last-of-type() {
     filter: invert(1) opacity(0.5);
 }
 
-.pokemon-list .item-active, .pokemon-list .pokemon-list-item:hover{
+.pokemon-list .item-active, .pokemon-list .pokemon-list-item:hover {
     background: linear-gradient(115deg, #F0501E 35%,#000000 35%);
     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.3);
     color: white;
 }
 
-.pokemon-list .item-active img{
+.pokemon-list .item-active img {
     filter: opacity(100%);
 }
 
-.pokemon-list-image{
+.pokemon-list-image {
     position: absolute;
     height: 120px;
     width: 120px;
@@ -133,23 +133,20 @@ html, body {
     filter: grayscale(100%);
 }
 
-.pokemon-list .item-active .pokemon-list-image{
+.pokemon-list .item-active .pokemon-list-image {
     filter: grayscale(0%) opacity(1);
 }
 
-.pokemon-list::-webkit-scrollbar-track
-{
+.pokemon-list::-webkit-scrollbar-track {
 	background-color: #900000;
 }
 
-.pokemon-list::-webkit-scrollbar
-{
+.pokemon-list::-webkit-scrollbar {
 	width: 12px;
 	background-color: #F5F5F5;
 }
 
-.pokemon-list::-webkit-scrollbar-thumb
-{
+.pokemon-list::-webkit-scrollbar-thumb {
 	background-color: #FF5A45;
 }
 
@@ -157,7 +154,8 @@ html, body {
     margin-left: 100px;
 }
 
-.item-active .pokeball-list-icon {
+.item-active .pokeball-list-icon,
+.pokemon-list-item:hover .pokeball-list-icon {
     opacity: 1;
     filter: unset;
 }
@@ -167,10 +165,9 @@ html, body {
     filter: invert(1);
 }
 
-.pokeball-list-icon img{
+.pokeball-list-icon img {
     height: 30px;
     width: 30px;
 }
-
 
 /*LIST*/
