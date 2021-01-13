@@ -25,7 +25,11 @@ function createPokemon (id, name, sprite) {
 }
 
 function changePokemonImage (data, image) {
+    image.style.opacity = 0
     image.src = `${data}`
+    image.addEventListener('transitionend', () => {
+        image.style.opacity = 1
+    })
 }
 
 function removeClass(elements, classElement) {
@@ -80,10 +84,6 @@ function createId (id) {
             result = `No. ${id}`;
             return result;
     }
-}
-
-function insertSprite () {
-    let sprite = document.getElementsByClassName('pokemon-list-image')[0]
 }
 
 postPokemon();
