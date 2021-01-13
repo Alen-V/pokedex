@@ -136,7 +136,7 @@ html, body {
 .pokemon-list-item {
     display: flex;
     justify-content: space-between;
-    padding: 0px 50px 0px 35px;
+    padding: 0px 25px 0px 35px;
     align-items: center;
     color: black;
     border-radius: 100px;
