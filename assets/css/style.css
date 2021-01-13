@@ -207,4 +207,14 @@ html, body {
     width: 30px;
 }
 
+.pokemon-list-item.item-active {
+    transform: scale(1.03);
+}
+
+.pokemon-list-item:hover {
+    transform: scale(1.05);
+    margin: 40px 0;
+
+}
+
 /*LIST*/
