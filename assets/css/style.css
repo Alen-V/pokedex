@@ -60,28 +60,28 @@ html, body {
     align-items: center;
 }
 
-.caught-pokeball img{
+.caught-pokeball img {
     height: 35px;
 }
 
-.seen-pokeballs{
+.seen-pokeballs {
     width: 400px;
     display: flex;
     justify-content: space-around;
     background-color: white;
 }
 
-.search-pokeball{
+.search-pokeball {
     display: flex;
     align-items: center;
 }
 
-.search-pokeball img{
+.search-pokeball img {
     height: 35px;
     width: 35px;
 }
 
-#pokemonSearch{
+#pokemonSearch {
     width: 90%;
     height: 100%;
     background: rgba(0, 0, 0, 0);
@@ -93,7 +93,7 @@ html, body {
     font-weight: 600;
 }
 
-#pokemonSearch:focus{
+#pokemonSearch:focus {
     outline: none;
 }
 
@@ -125,7 +125,7 @@ html, body {
 }
 /*LIST*/
 
-.pokemon-list{
+.pokemon-list {
     height: 80%;
     width: 40%;
     overflow-y: auto;
@@ -152,7 +152,7 @@ html, body {
 
 .pokemon-list .item-active, .pokemon-list .pokemon-list-item:hover {
     background: linear-gradient(115deg, #F0501E 35%,#000000 35%);
-    /* box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.3); */
+    box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.3);
     color: white;
 }
 
@@ -187,7 +187,7 @@ html, body {
 	background-color: #FF5A45;
 }
 
-.pokemon-id{
+.pokemon-id {
     margin-left: 65px;
 }
 
@@ -214,7 +214,6 @@ html, body {
 .pokemon-list-item:hover {
     transform: scale(1.05);
     margin: 40px 0;
-
 }
 
 /*LIST*/
