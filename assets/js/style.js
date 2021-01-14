@@ -1,12 +1,23 @@
 let test = document.getElementsByClassName('pokemon-list')[0];
-let pokemonList = test.children
 let pokemonImage = document.getElementsByClassName('pokemon-image')[0].children[0];
+let searchBtn = document.getElementsByClassName('search-icon')[0];
+let searchBar = document.getElementById('pokemonSearch');
+let pokemonList = test.children
 let data;
 
-async function fetchData(data){
+async function fetchData(data) {
     let call = await fetch(data);
     let dataJson = await call.json();
     return dataJson;
+}
+
+function searchPokemon(input, data) {
+    console.log(data);
+    for (let i = 0; i < data.length; i++) {
+        if(data[i].name == input) { //maybe use contains
+            console.log(data[i])
+        }
+    }
 }
 
 function createPokemon (id, name, sprite) {
@@ -35,20 +46,6 @@ function changePokemonImage (data, image) {
 function removeClass(elements, classElement) {
     for (let element of elements) {
         element.classList.remove(classElement)
-    }
-}
-
-function selectPokemon(data) {
-    for (let i = 0; i < pokemonList.length; i++) {
-        pokemonList[0].classList.add('item-active')
-        if(pokemonList[i].classList.contains('item-active')) {
-            changePokemonImage(data[i].img, pokemonImage)
-        }
-        pokemonList[i].addEventListener('click', function() {
-            removeClass(pokemonList, 'item-active')
-            this.classList.add('item-active');
-            changePokemonImage(data[i].img, pokemonImage)
-        })
     }
 }
 
@@ -85,5 +82,23 @@ function createId (id) {
             return result;
     }
 }
+
+function selectPokemon(data) {
+    for (let i = 0; i < pokemonList.length; i++) {
+        pokemonList[0].classList.add('item-active')
+        if(pokemonList[i].classList.contains('item-active')) {
+            changePokemonImage(data[i].img, pokemonImage)
+        }
+        pokemonList[i].addEventListener('click', function() {
+            removeClass(pokemonList, 'item-active')
+            this.classList.add('item-active');
+            changePokemonImage(data[i].img, pokemonImage)
+        })
+    }
+}
+
+searchBtn.addEventListener('click', () => {
+    searchPokemon(searchBar.value ,data);
+})
 
 postPokemon();
