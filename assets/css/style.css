@@ -217,3 +217,86 @@ html, body {
 }
 
 /*LIST*/
+
+.test {
+    height: 100vh;
+    width: 100vw;
+}
+
+.type {
+    height: 20px;
+    width: 100px;
+    display: block;
+}
+
+.type-bug {
+    background: #729f3f;
+}
+
+.type-dragon {
+    background: linear-gradient(180deg, #53a4cf 50%, #f16e57 50%);
+}
+
+.type-fairy {
+    background: #fdb9e9;
+}
+
+.type-fire {
+    background: #fd7d24;
+}
+
+.type-ghost {
+    background: #7b62a3;
+}
+
+.type-ground {
+    background: linear-gradient(180deg, #f7de3f 50%, #ab9842 50%);
+}
+
+.type-normal {
+    background: #a4acaf;
+}
+
+.type-psychic {
+    background: #f366b9;
+}
+
+.type-steel {
+    background: #9eb7b8;
+}
+
+.type-dark {
+    background: #707070;
+}
+
+.type-electric {
+    background: #eed535;
+}
+
+.type-fighting {
+    background: #d56723;
+}
+
+.type-flying {
+    background: linear-gradient(180deg, #3dc7ef 50%, #bdb9b8 50%);
+}
+
+.type-grass {
+    background: #9bcc50
+}
+
+.type-ice {
+    background: #51c4e7;
+}
+
+.type-poison {
+    background: #b97fc9;
+}
+
+.type-rock {
+    background: #a38c21;
+}
+
+.type-water {
+    background: #4592c4;
+}
