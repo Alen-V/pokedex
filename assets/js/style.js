@@ -1,7 +1,8 @@
-let test = document.getElementsByClassName('pokemon-list')[0];
-let pokemonList = test.children
+let wrapper = document.getElementsByClassName('pokemon-list')[0];
+let pokemonList = wrapper.children
 let pokemonImage = document.getElementsByClassName('pokemon-image')[0].children[0];
 let data;
+let test = document.getElementsByClassName('test')[0];
 
 async function fetchData(data){
     let call = await fetch(data);
@@ -20,8 +21,8 @@ function createPokemon (id, name, sprite) {
             <div class="pokemon-name"><h2>${name}</h2></div>
             <div class="pokeball-list-icon"><img src="assets/images/pokeball-list-icon.svg" alt=""></div>
         ${end}
-    `
-    test.innerHTML += result;
+    `;
+    wrapper.innerHTML += result;
 }
 
 function changePokemonImage (data, image) {
@@ -84,6 +85,10 @@ function createId (id) {
             result = `No. ${id}`;
             return result;
     }
+}
+
+function generateColor (type) {
+    return `type-${type.toLowerCase()}`;
 }
 
 postPokemon();
