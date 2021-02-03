@@ -152,7 +152,7 @@ html, body {
 
 .pokemon-list .item-active, .pokemon-list .pokemon-list-item:hover {
     background: linear-gradient(115deg, #F0501E 35%,#000000 35%);
-    box-shadow: 0px 0px 15px 5px rgba(0,0,0,0.3);
+    box-shadow: 0px 4px 0px #77291f, 0px 0px 0px #000000;
     color: white;
 }
 
